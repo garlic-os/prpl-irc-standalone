@@ -1,3 +1,9 @@
+# IDE configuration files
+.vscode/
+
+# idk what this is
+.cache/
+
 # Prerequisites
 *.d
 
